@@ -1,0 +1,137 @@
+body{
+    background-color:#f5f5f7;
+}
+nav{
+    /* background-color: b(202, 203, 204); */
+    display:flex;
+    text-align: center; 
+    padding:10px 110px;
+    font-size: 14px;
+    justify-content: center;
+
+}
+nav div{
+    padding-left: 20px;
+    padding-right:20px;
+}
+div a{
+    text-decoration: none;
+    color:rgb(57, 59, 60)
+}
+.matter {
+    font-size: 50px;
+     /* padding-left: -0px; */
+     padding-right: 80px; 
+    color:rgb(97, 92, 92);
+    /* width:100% */
+    
+}
+
+.matter span{
+    color: black;
+}
+.store {
+    display:flex;
+    justify-content: center;
+
+}
+.help{
+    padding-left: -650px;
+}
+.help-1 {
+    display:flex;
+}
+.help-2 {
+    display:flex;}
+.shopping{
+    display:flex;
+}
+.apple-store{
+    display:flex;
+}
+.products{
+    display: flex   ;
+    padding-left:100px;
+    justify-content: center;
+
+}
+.products p{
+    text-align: center;
+    padding-right: 20px;
+
+}
+.products img {
+    padding-top:40px;
+    padding-right: 20px;
+}
+.help{
+    position: relative;
+    bottom: -60px;;
+}
+.help-1 img{
+    position:relative;
+    bottom:-20px;
+    left:-10px;
+}
+.help-2 img{
+    position:relative;
+    bottom:-20px;
+    left:-10px;
+}
+.help-text p{
+        position:relative;
+        bottom:-7px
+}
+.help-text a{
+    position:relative;
+    bottom:7px
+}
+.help-text a{ color:blue;}
+
+div.products img {
+      position:relative;
+      bottom:-100px;
+
+}
+.laptop-container{
+display:flex;
+text-align: center;
+justify-content: center;    
+}
+.laptop-container .container-1 div span{
+    background-color: rgb(175, 175, 236);
+    padding: 10px 10px;
+    border-radius: 40px;
+}
+.laptop-container .container-2 div span{
+    background-color: rgb(175, 175, 236);
+    padding: 10px 10px;
+    border-radius: 40px;
+}
+.container-1 span{
+color: rgb(249, 55, 55);
+}
+.container-1 p{
+         font-size: 18px;
+}
+.container-1 div a{
+   padding:0px 25px;
+}
+.container-2{
+    position: relative;
+    bottom:18px;
+}
+.container-2 p{
+    font-size: 18px;
+}
+.container-2 .button a{
+    padding:0px 25px;
+}
+.air{
+    position:relative;
+    bottom:-40px;
+}
+.button{
+    position:relative;
+    bottom:-40px;
+}
